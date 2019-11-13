@@ -1,9 +1,10 @@
 # Python
 
+![Python](https://img.shields.io/badge/Python-3.0+-brightgreen.svg)
 ![GitHub repo size](https://img.shields.io/github/repo-size/jatinnr/Python)
 ![GitHub contributors](https://img.shields.io/github/contributors/jatinnr/Python)
-![GitHub stars](https://img.shields.io/github/stars/jatinnr/Python?style=social)
-![GitHub forks](https://img.shields.io/github/forks/jatinnr/Python?style=social)
+[![GitHub stars](https://img.shields.io/github/stars/jatinnr/Python.svg)](https://github.com/jatinnr/Python/stargazers)
+![GitHub forks](https://img.shields.io/github/forks/jatinnr/Python.svg)
 
 This Repository aims to provide interesting and useful Python Programs.
 
