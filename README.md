@@ -10,11 +10,11 @@ This Repository aims to provide interesting and useful Python Programs.
 
 ## Contributing
 
-Alternatively see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+See the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
 ## Contributors
 
-Thanks to the following people who have contributed to this project:
+Thanks to the following people who have contributed to this project:-
 
 * [Jatin Rao](https://github.com/jatinnr) 💻
 
