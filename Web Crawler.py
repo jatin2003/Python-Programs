@@ -25,4 +25,4 @@ def crawl(url):
         print(link)
 
 if __name__ == '__main__':
-    crawl('http://www.github.com')    # Change Site
+    crawl('http://www.google.com')    # Change Site
