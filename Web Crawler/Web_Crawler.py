@@ -1,5 +1,6 @@
 import requests
 import re
+
 try:
     from urllib.parse import urljoin
 except ImportError:
