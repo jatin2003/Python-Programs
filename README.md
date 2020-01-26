@@ -1,4 +1,4 @@
-# Python
+# Python Programs
 
 ## How to Contribute?
 - Fork this repository and Clone it to your PC.
